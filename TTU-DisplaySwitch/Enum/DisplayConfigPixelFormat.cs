@@ -12,5 +12,7 @@ namespace TTU_DisplaySwitch.Enum
         Pixelformat24Bpp = 3,
         Pixelformat32Bpp = 4,
         PixelformatNongdi = 5,
+        NoIdea = 129600,
+        NoIdea2 = 64800
     }
 }

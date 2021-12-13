@@ -1,0 +1,131 @@
+Extend
+Number of Path Array Elements: 2
+------------------------------------------------------------------------------------------
+Source Info Adpater ID Low Part: 1772913031
+Source Info Adapter ID High Part: 0
+Source Info ID: 0
+Source Info Mode Info IDX: 1
+Source Info Status Flags: InUse
+Target Info Adapter ID Low Part: 1772913031
+Target Info Adapter ID High Part: 0
+Target Info ID: 256
+Target Info Mode Info IDX: 0
+Target Info Output Technology: DisplayportExternal
+Target Info Rotation: Identity
+Target Info Scaling: Aspectratiocenteredmax
+Target Info Refresh Rate Numerator: 60
+Target Info Refresh Rate Denominator: 1
+Target Info Scan Line Ordering: Progressive
+Target Info Target Available: True
+Target Info Status Flags: InUse
+Flags: PathActive
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Source Info Adpater ID Low Part: 1772913031
+Source Info Adapter ID High Part: 0
+Source Info ID: 0
+Source Info Mode Info IDX: 1
+Source Info Status Flags: InUse
+Target Info Adapter ID Low Part: 1772913031
+Target Info Adapter ID High Part: 0
+Target Info ID: 257
+Target Info Mode Info IDX: 2
+Target Info Output Technology: DisplayportExternal
+Target Info Rotation: Identity
+Target Info Scaling: Aspectratiocenteredmax
+Target Info Refresh Rate Numerator: 60
+Target Info Refresh Rate Denominator: 1
+Target Info Scan Line Ordering: Progressive
+Target Info Target Available: True
+Target Info Status Flags: InUse
+Flags: PathActive
+------------------------------------------------------------------------------------------
+Number of Mode Info Array Elements: 4
+------------------------------------------------------------------------------------------
+Info Type: Target
+ID: 256
+Adpater ID Low Part: 1772913031
+Adapter ID High Part: 0
+Pixel Rate: 497664000
+H Sync Freq Numerator: 129600
+H Sync Freq Denominator: 1
+V Sync Freq Numerator: 60
+V Sync Freq Denominator: 1
+Active Size CX: 3840
+Active Size CY: 2160
+Total Size CX: 0
+Total Size CY: 0
+Video Standard: 65791
+Scan Line Ordering: Progressive
+Wdith: 497664000
+Height: 0
+Pixel Format: 129600
+X: 1
+Y: 60
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Info Type: Source
+ID: 0
+Adpater ID Low Part: 1772913031
+Adapter ID High Part: 0
+Pixel Rate: 4638564681600
+H Sync Freq Numerator: 4
+H Sync Freq Denominator: 0
+V Sync Freq Numerator: 0
+V Sync Freq Denominator: 0
+Active Size CX: 0
+Active Size CY: 0
+Total Size CX: 0
+Total Size CY: 0
+Video Standard: Uninitialized
+Scan Line Ordering: Unspecified
+Wdith: 1920
+Height: 1080
+Pixel Format: Pixelformat32Bpp
+X: 0
+Y: 0
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Info Type: Target
+ID: 257
+Adpater ID Low Part: 1772913031
+Adapter ID High Part: 0
+Pixel Rate: 124416000
+H Sync Freq Numerator: 64800
+H Sync Freq Denominator: 1
+V Sync Freq Numerator: 60
+V Sync Freq Denominator: 1
+Active Size CX: 1920
+Active Size CY: 1080
+Total Size CX: 0
+Total Size CY: 0
+Video Standard: 65791
+Scan Line Ordering: Progressive
+Wdith: 124416000
+Height: 0
+Pixel Format: 64800
+X: 1
+Y: 60
+------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------
+Info Type: Source
+ID: 1
+Adpater ID Low Part: 1772913031
+Adapter ID High Part: 0
+Pixel Rate: 4638564681600
+H Sync Freq Numerator: 4
+H Sync Freq Denominator: 1920
+V Sync Freq Numerator: 0
+V Sync Freq Denominator: 0
+Active Size CX: 0
+Active Size CY: 0
+Total Size CX: 0
+Total Size CY: 0
+Video Standard: Uninitialized
+Scan Line Ordering: Unspecified
+Wdith: 1920
+Height: 1080
+Pixel Format: Pixelformat32Bpp
+X: 1920
+Y: 0
+------------------------------------------------------------------------------------------

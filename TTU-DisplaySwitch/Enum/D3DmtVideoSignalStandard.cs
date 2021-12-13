@@ -37,6 +37,7 @@ namespace TTU_DisplaySwitch.Enum
         PalK1 = 29,
         PalL = 30,
         PalM = 31,
-        Other = 255
+        Other = 255,
+        NoIdea = 65791
     }
 }
