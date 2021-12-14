@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "PKylngT9Xxv4X96KKsfb5qZBeqL+IaOPgyoLeqkq0hXgxgfqGSMIqMDTunM7K+X649gdlg26zB9xLGYhdgBgWg==",
+  "dgSpecHash": "m4OCowqgVa8vgbhecgDvng34d6truBUX6f9wnl4hsIrlJETTDyIiADaM08UcETKP+F2/yR+Yw+854G63hZfYdA==",
   "success": true,
   "projectFilePath": "C:\\Users\\besmith\\Development\\TTU-DisplaySwitch\\TTU-DisplaySwitch\\TTU-DisplaySwitch.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\besmith\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.0\\microsoft.netcore.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\besmith\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.0\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.0.nupkg.sha512",
+    "C:\\Users\\besmith\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.0\\microsoft.aspnetcore.app.runtime.win-x64.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

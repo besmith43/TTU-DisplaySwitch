@@ -1,0 +1,2 @@
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\bin\release\net6.0-windows\win-x64\publish\TTU-DisplaySwitch.pdb
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\bin\release\net6.0-windows\win-x64\publish\TTU-DisplaySwitch.exe

@@ -1,0 +1,15 @@
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\bin\Debug\net6.0-windows\TTU-DisplaySwitch.exe
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\bin\Debug\net6.0-windows\TTU-DisplaySwitch.deps.json
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\bin\Debug\net6.0-windows\TTU-DisplaySwitch.runtimeconfig.json
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\bin\Debug\net6.0-windows\TTU-DisplaySwitch.dll
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\bin\Debug\net6.0-windows\ref\TTU-DisplaySwitch.dll
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\bin\Debug\net6.0-windows\TTU-DisplaySwitch.pdb
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\obj\Debug\net6.0-windows\TTU-DisplaySwitch.csproj.AssemblyReference.cache
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\obj\Debug\net6.0-windows\TTU-DisplaySwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\obj\Debug\net6.0-windows\TTU-DisplaySwitch.AssemblyInfoInputs.cache
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\obj\Debug\net6.0-windows\TTU-DisplaySwitch.AssemblyInfo.cs
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\obj\Debug\net6.0-windows\TTU-DisplaySwitch.csproj.CoreCompileInputs.cache
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\obj\Debug\net6.0-windows\TTU-DisplaySwitch.dll
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\obj\Debug\net6.0-windows\ref\TTU-DisplaySwitch.dll
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\obj\Debug\net6.0-windows\TTU-DisplaySwitch.pdb
+C:\Users\besmith\Development\TTU-DisplaySwitch\TTU-DisplaySwitch\obj\Debug\net6.0-windows\TTU-DisplaySwitch.genruntimeconfig.cache
